@@ -29,6 +29,11 @@ body{
     font-family: sans-serif;
 }
 
+.para_2{
+
+    color : rgb(255, 30, 0);
+}
+
 .course-link{
     color : #ecfdf9;
 }
