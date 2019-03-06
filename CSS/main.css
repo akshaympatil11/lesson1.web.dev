@@ -24,6 +24,10 @@ body{
 .site-header-content{
     margin: 10px;
 }
+.para_PA {
+    color : blue;
+    font-family: sans-serif;
+}
 
 .course-link{
     color : #ecfdf9;
