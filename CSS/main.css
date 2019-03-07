@@ -1,5 +1,5 @@
 .site-header {
-background-color: grey;
+background-color: rgb(143, 143, 250);
 color : #ecfdf9;
 height: 100vh;
 font-family: monospace;
@@ -25,13 +25,13 @@ body{
     margin: 10px;
 }
 .para_PA {
-    color : blue;
+    color : black;
     font-family: sans-serif;
 }
 
 .para_2{
 
-    color : rgb(255, 30, 0);
+    color : black;
 }
 
 .course-link{
